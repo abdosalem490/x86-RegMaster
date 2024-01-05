@@ -52,7 +52,7 @@ characters and start with a letter (No digits or special characters). This shoul
 the beginning of the program. In other words, the first screen at each terminal should
 display the something like:
 
-// TODO: add image here
+![image](https://github.com/abdosalem490/micro_proj/assets/82474719/26a36759-2137-4285-ad2d-f6d8fbbde7d1)
 
 Figure 1: First screen at each terminal.
 
@@ -66,7 +66,8 @@ list of available functionalities and how to navigate to each of them. Also, aft
 of the functionalities, this screen should appear to wait for the next action of the user.
 Figure 2 is a simple example of the main screen.
 
-// TODO: add image here
+![image](https://github.com/abdosalem490/micro_proj/assets/82474719/fe6e4674-2b1f-40af-897b-f4b474f7801e)
+
 
 Figure 2: The Main screen of the available functionalities
 
@@ -80,7 +81,8 @@ into two halves. For example, as in Figure 3, the first half is for showing data
 the current user, and the other is for showing data sent by the second user across the
 network. Scrolling functionality should be provided.
 
-// TODO: add image here
+![image](https://github.com/abdosalem490/micro_proj/assets/82474719/c0305273-dccd-4cd0-9daa-407244b5896c)
+
 
 Figure 3: Chatting Window
 
@@ -108,7 +110,7 @@ The game should be in the whole screen leaving the lower part of screen for inli
 chatting, usernames, scores and available power ups. The main scenario and a detailed
 description of the game are provided in the following sections.
 
-// TODO: add image here
+![image](https://github.com/abdosalem490/micro_proj/assets/82474719/d0c375b3-6894-43f9-8686-4287ccd57350)
 
 Figure 4: Ali’s main game screen
 
@@ -231,4 +233,6 @@ program must send the ESC to the other user.
 
 # dummy demo
 
-// ADD dummy VIDEO here
+
+https://github.com/abdosalem490/micro_proj/assets/82474719/c94b2893-de5f-4116-9287-edf37fb91e82
+
